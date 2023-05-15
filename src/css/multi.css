@@ -1,0 +1,65 @@
+@media only screen and (max-width : 991px) {
+    nav {
+        padding: 0;
+    }
+    nav a.brand-logo {
+        margin-top: 0.3em;
+    }
+    nav a.brand-logo img {
+        width: 90%;
+        height: auto;
+    }
+    header.simple-header nav {
+        padding-top: 0;
+    }
+    header.simple-header nav a.brand-logo {
+        width: 100%;
+        padding: 0 25px 0 84px;
+    }
+    header.custom-header .logo-wrapper a.brand-logo h4 {
+        margin-top: 16px;
+        font-size: 11px;
+    }
+    header.simple-header nav a.brand-logo h4 {
+        float: unset;
+        font-size: 1rem;
+        margin: 0;
+    }
+    header.simple-header  nav .sidenav-trigger {
+        margin-top: 32px;
+    }
+    .tabst .tab .left {
+        float: unset !important;
+        margin: 0 auto;
+    }
+    .has-sidebar {
+        padding-left: 0;
+    }
+    .sidenav {
+        transform: translateX(-105%);
+    }
+    a.nav-login, button[data-target="sidenav-main"] {
+        display: unset !important;
+    }
+    .breadcrumb {
+        font-size: 14px;
+    }
+}
+
+.container-2 {
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 90%;
+}
+
+@media only screen and (min-width: 993px) {
+    .container-2 {
+        width: 85%;
+    }
+}
+@media only screen and (min-width: 601px) {
+    .container-2 {
+        width: 90%;
+    }
+}
+

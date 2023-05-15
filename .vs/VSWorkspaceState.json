@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\actions",
+    "\\src\\components",
+    "\\src\\components\\screens",
+    "\\src\\components\\screens\\radiografia",
+    "\\src\\components\\screens\\radiografia\\factores",
+    "\\src\\components\\screens\\radiografia\\medios",
+    "\\src\\components\\screens\\radiografia\\periodos",
+    "\\src\\components\\screens\\radiografia\\productos"
+  ],
+  "SelectedNode": "\\src\\components\\ui\\forms\\radiografias\\subsecciones\\Page06CForm.jsx",
+  "PreviewInSolutionExplorer": false
+}

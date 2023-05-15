@@ -1,0 +1,28 @@
+aside#main-loading {
+    padding: 10%;
+    background-color: #ffffff;
+    background-size: 100px 100px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    z-index: 99999;
+    /*opacity: 0.75;*/
+}
+
+aside#main-loading img.loading-logo {
+    width: 100%;
+    height: auto;
+}
+
+aside#main-loading img.loading-gif {
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
